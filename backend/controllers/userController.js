@@ -8,7 +8,7 @@ import appointmentModel from "../models/appointmentModel.js"
 import razorpay from 'razorpay'
 
 //Api to register user
-
+const frontend_URL = 'https://doctor-frontend-dij2.onrender.com/'
 const registerUser = async(req,res)=>{
     try{
         const { name, email, password } = req.body
