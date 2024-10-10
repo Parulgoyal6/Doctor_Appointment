@@ -3,6 +3,7 @@ import bcrypt from 'bcryptjs'
 import jwt from "jsonwebtoken"
 import appointmentModel from "../models/appointmentModel.js"
 
+const frontend_URL = 'https://doctor-frontend-dij2.onrender.com/'
 const changeAvailability = async (req, res)=>{
     try{
         const {docId} = req.body
