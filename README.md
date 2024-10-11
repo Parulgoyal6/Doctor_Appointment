@@ -24,8 +24,30 @@ Currently, two official plugins are available:
 
 ![Prescripto - Google Chrome 11-10-2024 22_25_17](https://github.com/user-attachments/assets/b1380c1a-8d40-46ba-b413-dbf049caf80e)
 
+
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
 # Patient can see the appointments 
 ![Prescripto - Google Chrome 11-10-2024 22_27_46](https://github.com/user-attachments/assets/0cfd15d3-0882-48de-b2f4-966dd21ed037)
+
+
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
 
 
 #Doctor can see patient
@@ -34,6 +56,16 @@ Currently, two official plugins are available:
 ![Prescripto - Google Chrome 11-10-2024 22_36_06](https://github.com/user-attachments/assets/103b1af1-d917-47dd-9805-ac8bab70a652)
 
 ![Prescripto - Google Chrome 11-10-2024 22_36_18](https://github.com/user-attachments/assets/22d03842-380b-49cc-b992-e013046121e7)
+
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
 
 #Admin Pannel
 ![Prescripto Pannel - Google Chrome 11-10-2024 22_40_02](https://github.com/user-attachments/assets/37804fc3-8e7c-4885-9e6d-dbbbeb875eeb)
