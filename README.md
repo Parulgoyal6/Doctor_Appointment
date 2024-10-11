@@ -7,5 +7,5 @@
 
 
 
-<img align="right" alt="coding" width="1000" height="300" src=""C:\Users\Piyush goyal\Videos\Captures\Prescripto - Google Chrome 11-10-2024 22_14_47.png"">
+<img align="right" alt="coding" width="1000" height="300" src="Prescripto - Google Chrome 11-10-2024 22_14_47">
 
