@@ -15,6 +15,10 @@
 
 ![Prescripto - Google Chrome 11-10-2024 22_25_17](https://github.com/user-attachments/assets/b1380c1a-8d40-46ba-b413-dbf049caf80e)
 
+# Patient can see the appointments 
+![Prescripto - Google Chrome 11-10-2024 22_27_46](https://github.com/user-attachments/assets/0cfd15d3-0882-48de-b2f4-966dd21ed037)
+
+
 #Doctor can see patient
 ![Prescripto - Google Chrome 11-10-2024 22_35_54](https://github.com/user-attachments/assets/7ef4da17-1221-409b-a80a-194d424d455c)
 
@@ -22,10 +26,17 @@
 
 ![Prescripto - Google Chrome 11-10-2024 22_36_18](https://github.com/user-attachments/assets/22d03842-380b-49cc-b992-e013046121e7)
 
+#Admin Pannel
+![Prescripto Pannel - Google Chrome 11-10-2024 22_40_02](https://github.com/user-attachments/assets/37804fc3-8e7c-4885-9e6d-dbbbeb875eeb)
+
+![Prescripto Pannel - Google Chrome 11-10-2024 22_40_11](https://github.com/user-attachments/assets/c48fe324-0c61-4413-ba86-028dfc0e0dae)
+
+![Prescripto Pannel - Google Chrome 11-10-2024 22_40_24](https://github.com/user-attachments/assets/ca1004cd-02ef-44be-888b-78c9a4eea718)
+
+![Prescripto Pannel - Google Chrome 11-10-2024 22_40_34](https://github.com/user-attachments/assets/66ce06ee-2098-4137-b2fb-01e906a9e52e)
 
 
-# Patient can see the appointments 
-![Prescripto - Google Chrome 11-10-2024 22_27_46](https://github.com/user-attachments/assets/0cfd15d3-0882-48de-b2f4-966dd21ed037)
+
 
 
 
