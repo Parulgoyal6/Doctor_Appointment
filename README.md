@@ -15,6 +15,14 @@
 
 ![Prescripto - Google Chrome 11-10-2024 22_25_17](https://github.com/user-attachments/assets/b1380c1a-8d40-46ba-b413-dbf049caf80e)
 
+#Doctor can see patient
+![Prescripto - Google Chrome 11-10-2024 22_35_54](https://github.com/user-attachments/assets/7ef4da17-1221-409b-a80a-194d424d455c)
+
+![Prescripto - Google Chrome 11-10-2024 22_36_06](https://github.com/user-attachments/assets/103b1af1-d917-47dd-9805-ac8bab70a652)
+
+![Prescripto - Google Chrome 11-10-2024 22_36_18](https://github.com/user-attachments/assets/22d03842-380b-49cc-b992-e013046121e7)
+
+
 
 # Patient can see the appointments 
 ![Prescripto - Google Chrome 11-10-2024 22_27_46](https://github.com/user-attachments/assets/0cfd15d3-0882-48de-b2f4-966dd21ed037)
