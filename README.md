@@ -5,6 +5,15 @@
 
 #Patient can easily appoint doctors
 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
 ![Prescripto - Google Chrome 11-10-2024 22_11_03](https://github.com/user-attachments/assets/6ff9493c-18fe-4b10-9487-35bd58d5c622)﻿# Project Title
 
 ![Prescripto - Google Chrome 11-10-2024 22_14_47](https://github.com/user-attachments/assets/26823077-8b4f-4beb-a478-2de49a9116d9)
