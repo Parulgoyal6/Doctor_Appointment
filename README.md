@@ -5,5 +5,7 @@
 
 ![Prescripto - Google Chrome 11-10-2024 22_11_03](https://github.com/user-attachments/assets/6ff9493c-18fe-4b10-9487-35bd58d5c622)﻿# Project Title
 
-<img align="right" alt="coding" width="1000" height="300" src="C:\Users\Piyush goyal\Videos\Captures\Prescripto - Google Chrome 11-10-2024 22_14_47.png">
+
+
+<img align="right" alt="coding" width="1000" height="300" src=""C:\Users\Piyush goyal\Videos\Captures\Prescripto - Google Chrome 11-10-2024 22_14_47.png"">
 
